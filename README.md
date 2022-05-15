@@ -1,2 +1,2 @@
 # machineLearning_Projects
-My projects in machine learning area using mainly Skitlearn library.
+My projects in machine learning area using mainly Sk-learn, Pytorch library.
